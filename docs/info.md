@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## Crush ni rae si vasty
 
-Explain how your project works
+Crush ni rae si vasty
 
-## How to test
+## Meow meow
 
-Explain how to use your project
+Meow meow
 
-## External hardware
+## Hardwar
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Alam mo ba girl
